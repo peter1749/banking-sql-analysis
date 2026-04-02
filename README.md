@@ -1,4 +1,4 @@
-Banking Risk & Revenue Analysis (SQL Project)
+Financial Risk & Revenue Analysis (SQL Project)
 
 Overview
 This project analyzes a banking dataset to evaluate:
